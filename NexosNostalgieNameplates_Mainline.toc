@@ -1,0 +1,12 @@
+## Interface: 120105, 120100, 120107, 120017
+## Title: Nexos Nostalgie Nameplates
+## Notes: Classic 2004-inspired overhead nameplates
+## Author: NexosTEAM
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\NexosNostalgieNameplates\Media\ClassicIcon.tga
+## SavedVariables: NexosNostalgieDB
+Bootstrap.lua
+Core.lua
+UnitFrames.lua
+Levels.lua
+Settings.lua
